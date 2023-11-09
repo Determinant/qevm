@@ -1,4 +1,4 @@
-> This repository is no longer actively maintained.
+> This repository is under development and experimental.
 
 # qEVM: Quick/Quaint/Quality Ethereum Virtual Machine
 
